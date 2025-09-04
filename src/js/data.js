@@ -122,183 +122,183 @@ const DRAFT_POOL = [
     },
     {
         id: "player21",
-        name: "",
-        image: "",
-        instagram: ""
+        name: "森日向子",
+        image: "https://i.meee.com.tw/StOgzQC.jpg",
+        instagram: "https://www.instagram.com/hinako_mori_/"
     },
     {
         id: "player22",
-        name: "",
-        image: "",
-        instagram: ""
+        name: "美谷朱里",
+        image: "https://i.meee.com.tw/bnrfrsM.jpg",
+        instagram: "https://www.instagram.com/akanemitani0415/"
     },
     {
         id: "player23",
-        name: "",
-        image: "",
-        instagram: ""
+        name: "三上悠亞",
+        image: "https://i.meee.com.tw/M5dn1E6.jpg",
+        instagram: "https://www.instagram.com/yua_mikami/"
     },
     {
         id: "player24",
-        name: "",
-        image: "",
-        instagram: ""
+        name: "彌生美月",
+        image: "https://i.meee.com.tw/7XhDcax.jpg",
+        instagram: "https://www.instagram.com/mizuki_yayoi/"
     },
     {
         id: "player25",
-        name: "",
-        image: "",
-        instagram: ""
+        name: "倉本すみれ",
+        image: "https://i.meee.com.tw/lRz4LYE.jpg",
+        instagram: "https://www.instagram.com/kuramotosumire/"
     },
     {
         id: "player26",
-        name: "",
-        image: "",
-        instagram: ""
+        name: "松本一香",
+        image: "https://i.meee.com.tw/iy9yceN.jpg",
+        instagram: "https://www.instagram.com/verseau_219/"
     },
     {
         id: "player27",
-        name: "",
-        image: "",
-        instagram: ""
+        name: "椿莉香",
+        image: "https://i.meee.com.tw/ZilcpKy.jpg",
+        instagram: "https://www.instagram.com/tsu_chan44rika/"
     },
     {
         id: "player28",
-        name: "",
-        image: "",
-        instagram: ""
+        name: "天馬唯",
+        image: "https://i.meee.com.tw/ItrqFpX.jpg",
+        instagram: "https://www.instagram.com/tenma_yuichan/"
     },
     {
         id: "player29",
-        name: "",
-        image: "",
-        instagram: ""
+        name: "新村朱里",
+        image: "https://i.meee.com.tw/qvEmjDd.jpg",
+        instagram: "https://www.instagram.com/niimura_akari/"
     },
     {
         id: "player30",
-        name: "",
-        image: "",
-        instagram: ""
+        name: "木下日葵",
+        image: "https://i.meee.com.tw/phH8k8z.jpg",
+        instagram: "https://www.instagram.com/himari_kinoshita/"
     },
     {
         id: "player31",
-        name: "",
-        image: "",
-        instagram: ""
+        name: "波多野結衣",
+        image: "https://i.meee.com.tw/OIdTNO6.jpg",
+        instagram: "https://www.instagram.com/hatachan524/"
     },
     {
         id: "player32",
-        name: "",
-        image: "",
-        instagram: ""
+        name: "白石桃",
+        image: "https://i.meee.com.tw/efq187B.jpg",
+        instagram: "https://x.com/shiraishimomo_"
     },
     {
         id: "player33",
-        name: "",
-        image: "",
-        instagram: ""
+        name: "七森莉莉",
+        image: "https://i.meee.com.tw/VG9hcvO.jpg",
+        instagram: "https://x.com/riri_nntmr"
     },
     {
         id: "player34",
-        name: "",
-        image: "",
+        name: "安齋拉拉",
+        image: "https://i.meee.com.tw/eZ2mQBU.jpg",
         instagram: ""
     },
     {
         id: "player35",
-        name: "",
-        image: "",
-        instagram: ""
+        name: "篠田優",
+        image: "https://i.meee.com.tw/k3dpwip.jpg",
+        instagram: "https://www.instagram.com/yushinoda0721/"
     },
     {
         id: "player36",
-        name: "",
-        image: "",
-        instagram: ""
+        name: "相澤南",
+        image: "https://i.meee.com.tw/yMcKNTN.jpg",
+        instagram: "https://www.instagram.com/epoint2016/"
     },
     {
         id: "player37",
-        name: "",
-        image: "",
-        instagram: ""
+        name: "小倉由菜",
+        image: "https://i.meee.com.tw/V1XAS4B.jpg",
+        instagram: "https://www.instagram.com/ogura_yuna/"
     },
     {
         id: "player38",
-        name: "",
-        image: "",
-        instagram: ""
+        name: "吉高寧寧",
+        image: "https://i.meee.com.tw/xvaGzlW.jpg",
+        instagram: "https://www.instagram.com/_yoshitaka_nene/"
     },
     {
         id: "player39",
-        name: "",
-        image: "",
-        instagram: ""
+        name: "桃乃木香奈",
+        image: "https://i.meee.com.tw/8SWVxu2.jpg",
+        instagram: "https://www.instagram.com/kana_momonogi/"
     },
     {
         id: "player40",
-        name: "",
-        image: "",
-        instagram: ""
+        name: "深田詠美",
+        image: "https://i.meee.com.tw/OgV76VT.jpg",
+        instagram: "https://www.instagram.com/eimi0318/"
     },
     {
         id: "player41",
-        name: "",
-        image: "",
-        instagram: ""
+        name: "水卜櫻",
+        image: "https://i.meee.com.tw/fxk8PJx.jpg",
+        instagram: "https://x.com/archemiura/media"
     },
     {
         id: "player42",
-        name: "",
-        image: "",
-        instagram: ""
+        name: "高橋聖子",
+        image: "https://i.meee.com.tw/fDqkFiW.jpg",
+        instagram: "https://www.instagram.com/ts_takasho/"
     },
     {
         id: "player43",
-        name: "",
-        image: "",
-        instagram: ""
+        name: "伊藤舞雪",
+        image: "https://i.meee.com.tw/4NDoLzV.jpg",
+        instagram: "https://www.instagram.com/myk__gram/"
     },
     {
         id: "player44",
-        name: "",
-        image: "",
+        name: "葵司",
+        image: "https://i.meee.com.tw/55AFdRj.jpg",
         instagram: ""
     },
     {
         id: "player45",
-        name: "",
-        image: "",
-        instagram: ""
+        name: "明日花綺羅",
+        image: "https://i.meee.com.tw/GrXAe8f.jpg",
+        instagram: "https://www.instagram.com/asukakiraran/"
     },
     {
         id: "player46",
-        name: "",
-        image: "",
-        instagram: ""
+        name: "凪光",
+        image: "https://i.meee.com.tw/tYu4dSw.webp",
+        instagram: "https://www.instagram.com/_nagihikaru/"
     },
     {
         id: "player47",
-        name: "",
-        image: "",
-        instagram: ""
+        name: "宮下玲奈",
+        image: "https://i.meee.com.tw/opKSHVo.webp",
+        instagram: "https://www.instagram.com/rena__miyashita/"
     },
     {
         id: "player48",
-        name: "",
-        image: "",
-        instagram: ""
+        name: "田野憂",
+        image: "https://i.meee.com.tw/yoCifh4.jpg",
+        instagram: "https://x.com/_yu_8_8"
     },
     {
         id: "player49",
-        name: "",
-        image: "",
-        instagram: ""
+        name: "逢澤美優",
+        image: "https://i.meee.com.tw/lYP1Ah5.jpg",
+        instagram: "https://x.com/aizawa_miyu03"
     },
     {
         id: "player50",
-        name: "",
-        image: "",
-        instagram: ""
+        name: "柏木小夏",
+        image: "https://i.meee.com.tw/Y3cZuzO.jpg",
+        instagram: "https://www.instagram.com/kashi_konatsu/"
     },
 ];
 
